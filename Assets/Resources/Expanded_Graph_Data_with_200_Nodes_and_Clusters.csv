@@ -1,0 +1,789 @@
+Type,ID,Attributes,SourceID,TargetID
+Node,1,Label:Paper 1;Author:Author 1;Year:2020;Journal:Journal 1,,
+Node,2,Label:Paper 2;Author:Author 2;Year:2022;Journal:Journal 2,,
+Node,3,Label:Paper 3;Author:Author 3;Year:2011;Journal:Journal 3,,
+Node,4,Label:Paper 4;Author:Author 4;Year:2021;Journal:Journal 4,,
+Node,5,Label:Paper 5;Author:Author 5;Year:2001;Journal:Journal 5,,
+Node,6,Label:Paper 6;Author:Author 6;Year:2001;Journal:Journal 6,,
+Node,7,Label:Paper 7;Author:Author 7;Year:2005;Journal:Journal 7,,
+Node,8,Label:Paper 8;Author:Author 8;Year:2009;Journal:Journal 8,,
+Node,9,Label:Paper 9;Author:Author 9;Year:2019;Journal:Journal 9,,
+Node,10,Label:Paper 10;Author:Author 10;Year:2000;Journal:Journal 10,,
+Node,11,Label:Paper 11;Author:Author 11;Year:2022;Journal:Journal 11,,
+Node,12,Label:Paper 12;Author:Author 12;Year:2002;Journal:Journal 12,,
+Node,13,Label:Paper 13;Author:Author 13;Year:2005;Journal:Journal 13,,
+Node,14,Label:Paper 14;Author:Author 14;Year:2015;Journal:Journal 14,,
+Node,15,Label:Paper 15;Author:Author 15;Year:2019;Journal:Journal 15,,
+Node,16,Label:Paper 16;Author:Author 16;Year:2004;Journal:Journal 16,,
+Node,17,Label:Paper 17;Author:Author 17;Year:2001;Journal:Journal 17,,
+Node,18,Label:Paper 18;Author:Author 18;Year:2003;Journal:Journal 18,,
+Node,19,Label:Paper 19;Author:Author 19;Year:2001;Journal:Journal 19,,
+Node,20,Label:Paper 20;Author:Author 20;Year:2015;Journal:Journal 20,,
+Node,21,Label:Paper 21;Author:Author 21;Year:2005;Journal:Journal 21,,
+Node,22,Label:Paper 22;Author:Author 22;Year:2006;Journal:Journal 22,,
+Node,23,Label:Paper 23;Author:Author 23;Year:2003;Journal:Journal 23,,
+Node,24,Label:Paper 24;Author:Author 24;Year:2022;Journal:Journal 24,,
+Node,25,Label:Paper 25;Author:Author 25;Year:2000;Journal:Journal 25,,
+Node,26,Label:Paper 26;Author:Author 26;Year:2013;Journal:Journal 26,,
+Node,27,Label:Paper 27;Author:Author 27;Year:2007;Journal:Journal 27,,
+Node,28,Label:Paper 28;Author:Author 28;Year:2008;Journal:Journal 28,,
+Node,29,Label:Paper 29;Author:Author 29;Year:2018;Journal:Journal 29,,
+Node,30,Label:Paper 30;Author:Author 30;Year:2023;Journal:Journal 30,,
+Node,31,Label:Paper 31;Author:Author 31;Year:2013;Journal:Journal 31,,
+Node,32,Label:Paper 32;Author:Author 32;Year:2011;Journal:Journal 32,,
+Node,33,Label:Paper 33;Author:Author 33;Year:2005;Journal:Journal 33,,
+Node,34,Label:Paper 34;Author:Author 34;Year:2017;Journal:Journal 34,,
+Node,35,Label:Paper 35;Author:Author 35;Year:2016;Journal:Journal 35,,
+Node,36,Label:Paper 36;Author:Author 36;Year:2015;Journal:Journal 36,,
+Node,37,Label:Paper 37;Author:Author 37;Year:2000;Journal:Journal 37,,
+Node,38,Label:Paper 38;Author:Author 38;Year:2000;Journal:Journal 38,,
+Node,39,Label:Paper 39;Author:Author 39;Year:2015;Journal:Journal 39,,
+Node,40,Label:Paper 40;Author:Author 40;Year:2013;Journal:Journal 40,,
+Node,41,Label:Paper 41;Author:Author 41;Year:2017;Journal:Journal 41,,
+Node,42,Label:Paper 42;Author:Author 42;Year:2004;Journal:Journal 42,,
+Node,43,Label:Paper 43;Author:Author 43;Year:2000;Journal:Journal 43,,
+Node,44,Label:Paper 44;Author:Author 44;Year:2003;Journal:Journal 44,,
+Node,45,Label:Paper 45;Author:Author 45;Year:2009;Journal:Journal 45,,
+Node,46,Label:Paper 46;Author:Author 46;Year:2021;Journal:Journal 46,,
+Node,47,Label:Paper 47;Author:Author 47;Year:2020;Journal:Journal 47,,
+Node,48,Label:Paper 48;Author:Author 48;Year:2011;Journal:Journal 48,,
+Node,49,Label:Paper 49;Author:Author 49;Year:2008;Journal:Journal 49,,
+Node,50,Label:Paper 50;Author:Author 50;Year:2004;Journal:Journal 50,,
+Node,51,Label:Paper 51;Author:Author 51;Year:2002;Journal:Journal 51,,
+Node,52,Label:Paper 52;Author:Author 52;Year:2006;Journal:Journal 52,,
+Node,53,Label:Paper 53;Author:Author 53;Year:2002;Journal:Journal 53,,
+Node,54,Label:Paper 54;Author:Author 54;Year:2010;Journal:Journal 54,,
+Node,55,Label:Paper 55;Author:Author 55;Year:2019;Journal:Journal 55,,
+Node,56,Label:Paper 56;Author:Author 56;Year:2018;Journal:Journal 56,,
+Node,57,Label:Paper 57;Author:Author 57;Year:2001;Journal:Journal 57,,
+Node,58,Label:Paper 58;Author:Author 58;Year:2021;Journal:Journal 58,,
+Node,59,Label:Paper 59;Author:Author 59;Year:2008;Journal:Journal 59,,
+Node,60,Label:Paper 60;Author:Author 60;Year:2014;Journal:Journal 60,,
+Node,61,Label:Paper 61;Author:Author 61;Year:2016;Journal:Journal 61,,
+Node,62,Label:Paper 62;Author:Author 62;Year:2007;Journal:Journal 62,,
+Node,63,Label:Paper 63;Author:Author 63;Year:2015;Journal:Journal 63,,
+Node,64,Label:Paper 64;Author:Author 64;Year:2013;Journal:Journal 64,,
+Node,65,Label:Paper 65;Author:Author 65;Year:2015;Journal:Journal 65,,
+Node,66,Label:Paper 66;Author:Author 66;Year:2001;Journal:Journal 66,,
+Node,67,Label:Paper 67;Author:Author 67;Year:2003;Journal:Journal 67,,
+Node,68,Label:Paper 68;Author:Author 68;Year:2006;Journal:Journal 68,,
+Node,69,Label:Paper 69;Author:Author 69;Year:2022;Journal:Journal 69,,
+Node,70,Label:Paper 70;Author:Author 70;Year:2002;Journal:Journal 70,,
+Node,71,Label:Paper 71;Author:Author 71;Year:2001;Journal:Journal 71,,
+Node,72,Label:Paper 72;Author:Author 72;Year:2017;Journal:Journal 72,,
+Node,73,Label:Paper 73;Author:Author 73;Year:2000;Journal:Journal 73,,
+Node,74,Label:Paper 74;Author:Author 74;Year:2011;Journal:Journal 74,,
+Node,75,Label:Paper 75;Author:Author 75;Year:2009;Journal:Journal 75,,
+Node,76,Label:Paper 76;Author:Author 76;Year:2004;Journal:Journal 76,,
+Node,77,Label:Paper 77;Author:Author 77;Year:2016;Journal:Journal 77,,
+Node,78,Label:Paper 78;Author:Author 78;Year:2005;Journal:Journal 78,,
+Node,79,Label:Paper 79;Author:Author 79;Year:2005;Journal:Journal 79,,
+Node,80,Label:Paper 80;Author:Author 80;Year:2002;Journal:Journal 80,,
+Node,81,Label:Paper 81;Author:Author 81;Year:2022;Journal:Journal 81,,
+Node,82,Label:Paper 82;Author:Author 82;Year:2013;Journal:Journal 82,,
+Node,83,Label:Paper 83;Author:Author 83;Year:2012;Journal:Journal 83,,
+Node,84,Label:Paper 84;Author:Author 84;Year:2020;Journal:Journal 84,,
+Node,85,Label:Paper 85;Author:Author 85;Year:2018;Journal:Journal 85,,
+Node,86,Label:Paper 86;Author:Author 86;Year:2005;Journal:Journal 86,,
+Node,87,Label:Paper 87;Author:Author 87;Year:2005;Journal:Journal 87,,
+Node,88,Label:Paper 88;Author:Author 88;Year:2008;Journal:Journal 88,,
+Node,89,Label:Paper 89;Author:Author 89;Year:2008;Journal:Journal 89,,
+Node,90,Label:Paper 90;Author:Author 90;Year:2018;Journal:Journal 90,,
+Node,91,Label:Paper 91;Author:Author 91;Year:2001;Journal:Journal 91,,
+Node,92,Label:Paper 92;Author:Author 92;Year:2008;Journal:Journal 92,,
+Node,93,Label:Paper 93;Author:Author 93;Year:2003;Journal:Journal 93,,
+Node,94,Label:Paper 94;Author:Author 94;Year:2001;Journal:Journal 94,,
+Node,95,Label:Paper 95;Author:Author 95;Year:2003;Journal:Journal 95,,
+Node,96,Label:Paper 96;Author:Author 96;Year:2021;Journal:Journal 96,,
+Node,97,Label:Paper 97;Author:Author 97;Year:2023;Journal:Journal 97,,
+Node,98,Label:Paper 98;Author:Author 98;Year:2000;Journal:Journal 98,,
+Node,99,Label:Paper 99;Author:Author 99;Year:2022;Journal:Journal 99,,
+Node,100,Label:Paper 100;Author:Author 100;Year:2003;Journal:Journal 100,,
+Node,101,Label:Paper 101;Author:Author 101;Year:2001;Journal:Journal 101,,
+Node,102,Label:Paper 102;Author:Author 102;Year:2016;Journal:Journal 102,,
+Node,103,Label:Paper 103;Author:Author 103;Year:2020;Journal:Journal 103,,
+Node,104,Label:Paper 104;Author:Author 104;Year:2000;Journal:Journal 104,,
+Node,105,Label:Paper 105;Author:Author 105;Year:2005;Journal:Journal 105,,
+Node,106,Label:Paper 106;Author:Author 106;Year:2023;Journal:Journal 106,,
+Node,107,Label:Paper 107;Author:Author 107;Year:2004;Journal:Journal 107,,
+Node,108,Label:Paper 108;Author:Author 108;Year:2020;Journal:Journal 108,,
+Node,109,Label:Paper 109;Author:Author 109;Year:2000;Journal:Journal 109,,
+Node,110,Label:Paper 110;Author:Author 110;Year:2016;Journal:Journal 110,,
+Node,111,Label:Paper 111;Author:Author 111;Year:2009;Journal:Journal 111,,
+Node,112,Label:Paper 112;Author:Author 112;Year:2004;Journal:Journal 112,,
+Node,113,Label:Paper 113;Author:Author 113;Year:2006;Journal:Journal 113,,
+Node,114,Label:Paper 114;Author:Author 114;Year:2018;Journal:Journal 114,,
+Node,115,Label:Paper 115;Author:Author 115;Year:2013;Journal:Journal 115,,
+Node,116,Label:Paper 116;Author:Author 116;Year:2011;Journal:Journal 116,,
+Node,117,Label:Paper 117;Author:Author 117;Year:2019;Journal:Journal 117,,
+Node,118,Label:Paper 118;Author:Author 118;Year:2022;Journal:Journal 118,,
+Node,119,Label:Paper 119;Author:Author 119;Year:2015;Journal:Journal 119,,
+Node,120,Label:Paper 120;Author:Author 120;Year:2018;Journal:Journal 120,,
+Node,121,Label:Paper 121;Author:Author 121;Year:2018;Journal:Journal 121,,
+Node,122,Label:Paper 122;Author:Author 122;Year:2017;Journal:Journal 122,,
+Node,123,Label:Paper 123;Author:Author 123;Year:2007;Journal:Journal 123,,
+Node,124,Label:Paper 124;Author:Author 124;Year:2007;Journal:Journal 124,,
+Node,125,Label:Paper 125;Author:Author 125;Year:2007;Journal:Journal 125,,
+Node,126,Label:Paper 126;Author:Author 126;Year:2006;Journal:Journal 126,,
+Node,127,Label:Paper 127;Author:Author 127;Year:2011;Journal:Journal 127,,
+Node,128,Label:Paper 128;Author:Author 128;Year:2014;Journal:Journal 128,,
+Node,129,Label:Paper 129;Author:Author 129;Year:2003;Journal:Journal 129,,
+Node,130,Label:Paper 130;Author:Author 130;Year:2022;Journal:Journal 130,,
+Node,131,Label:Paper 131;Author:Author 131;Year:2002;Journal:Journal 131,,
+Node,132,Label:Paper 132;Author:Author 132;Year:2004;Journal:Journal 132,,
+Node,133,Label:Paper 133;Author:Author 133;Year:2020;Journal:Journal 133,,
+Node,134,Label:Paper 134;Author:Author 134;Year:2011;Journal:Journal 134,,
+Node,135,Label:Paper 135;Author:Author 135;Year:2011;Journal:Journal 135,,
+Node,136,Label:Paper 136;Author:Author 136;Year:2020;Journal:Journal 136,,
+Node,137,Label:Paper 137;Author:Author 137;Year:2022;Journal:Journal 137,,
+Node,138,Label:Paper 138;Author:Author 138;Year:2013;Journal:Journal 138,,
+Node,139,Label:Paper 139;Author:Author 139;Year:2020;Journal:Journal 139,,
+Node,140,Label:Paper 140;Author:Author 140;Year:2015;Journal:Journal 140,,
+Node,141,Label:Paper 141;Author:Author 141;Year:2005;Journal:Journal 141,,
+Node,142,Label:Paper 142;Author:Author 142;Year:2022;Journal:Journal 142,,
+Node,143,Label:Paper 143;Author:Author 143;Year:2000;Journal:Journal 143,,
+Node,144,Label:Paper 144;Author:Author 144;Year:2004;Journal:Journal 144,,
+Node,145,Label:Paper 145;Author:Author 145;Year:2002;Journal:Journal 145,,
+Node,146,Label:Paper 146;Author:Author 146;Year:2022;Journal:Journal 146,,
+Node,147,Label:Paper 147;Author:Author 147;Year:2021;Journal:Journal 147,,
+Node,148,Label:Paper 148;Author:Author 148;Year:2022;Journal:Journal 148,,
+Node,149,Label:Paper 149;Author:Author 149;Year:2010;Journal:Journal 149,,
+Node,150,Label:Paper 150;Author:Author 150;Year:2003;Journal:Journal 150,,
+Node,151,Label:Paper 151;Author:Author 151;Year:2016;Journal:Journal 151,,
+Node,152,Label:Paper 152;Author:Author 152;Year:2004;Journal:Journal 152,,
+Node,153,Label:Paper 153;Author:Author 153;Year:2006;Journal:Journal 153,,
+Node,154,Label:Paper 154;Author:Author 154;Year:2013;Journal:Journal 154,,
+Node,155,Label:Paper 155;Author:Author 155;Year:2008;Journal:Journal 155,,
+Node,156,Label:Paper 156;Author:Author 156;Year:2001;Journal:Journal 156,,
+Node,157,Label:Paper 157;Author:Author 157;Year:2014;Journal:Journal 157,,
+Node,158,Label:Paper 158;Author:Author 158;Year:2004;Journal:Journal 158,,
+Node,159,Label:Paper 159;Author:Author 159;Year:2014;Journal:Journal 159,,
+Node,160,Label:Paper 160;Author:Author 160;Year:2008;Journal:Journal 160,,
+Node,161,Label:Paper 161;Author:Author 161;Year:2014;Journal:Journal 161,,
+Node,162,Label:Paper 162;Author:Author 162;Year:2014;Journal:Journal 162,,
+Node,163,Label:Paper 163;Author:Author 163;Year:2011;Journal:Journal 163,,
+Node,164,Label:Paper 164;Author:Author 164;Year:2012;Journal:Journal 164,,
+Node,165,Label:Paper 165;Author:Author 165;Year:2019;Journal:Journal 165,,
+Node,166,Label:Paper 166;Author:Author 166;Year:2018;Journal:Journal 166,,
+Node,167,Label:Paper 167;Author:Author 167;Year:2005;Journal:Journal 167,,
+Node,168,Label:Paper 168;Author:Author 168;Year:2010;Journal:Journal 168,,
+Node,169,Label:Paper 169;Author:Author 169;Year:2004;Journal:Journal 169,,
+Node,170,Label:Paper 170;Author:Author 170;Year:2016;Journal:Journal 170,,
+Node,171,Label:Paper 171;Author:Author 171;Year:2015;Journal:Journal 171,,
+Node,172,Label:Paper 172;Author:Author 172;Year:2022;Journal:Journal 172,,
+Node,173,Label:Paper 173;Author:Author 173;Year:2017;Journal:Journal 173,,
+Node,174,Label:Paper 174;Author:Author 174;Year:2013;Journal:Journal 174,,
+Node,175,Label:Paper 175;Author:Author 175;Year:2007;Journal:Journal 175,,
+Node,176,Label:Paper 176;Author:Author 176;Year:2009;Journal:Journal 176,,
+Node,177,Label:Paper 177;Author:Author 177;Year:2001;Journal:Journal 177,,
+Node,178,Label:Paper 178;Author:Author 178;Year:2003;Journal:Journal 178,,
+Node,179,Label:Paper 179;Author:Author 179;Year:2007;Journal:Journal 179,,
+Node,180,Label:Paper 180;Author:Author 180;Year:2023;Journal:Journal 180,,
+Node,181,Label:Paper 181;Author:Author 181;Year:2015;Journal:Journal 181,,
+Node,182,Label:Paper 182;Author:Author 182;Year:2017;Journal:Journal 182,,
+Node,183,Label:Paper 183;Author:Author 183;Year:2018;Journal:Journal 183,,
+Node,184,Label:Paper 184;Author:Author 184;Year:2019;Journal:Journal 184,,
+Node,185,Label:Paper 185;Author:Author 185;Year:2016;Journal:Journal 185,,
+Node,186,Label:Paper 186;Author:Author 186;Year:2012;Journal:Journal 186,,
+Node,187,Label:Paper 187;Author:Author 187;Year:2013;Journal:Journal 187,,
+Node,188,Label:Paper 188;Author:Author 188;Year:2016;Journal:Journal 188,,
+Node,189,Label:Paper 189;Author:Author 189;Year:2023;Journal:Journal 189,,
+Node,190,Label:Paper 190;Author:Author 190;Year:2005;Journal:Journal 190,,
+Node,191,Label:Paper 191;Author:Author 191;Year:2022;Journal:Journal 191,,
+Node,192,Label:Paper 192;Author:Author 192;Year:2020;Journal:Journal 192,,
+Node,193,Label:Paper 193;Author:Author 193;Year:2015;Journal:Journal 193,,
+Node,194,Label:Paper 194;Author:Author 194;Year:2023;Journal:Journal 194,,
+Node,195,Label:Paper 195;Author:Author 195;Year:2005;Journal:Journal 195,,
+Node,196,Label:Paper 196;Author:Author 196;Year:2020;Journal:Journal 196,,
+Node,197,Label:Paper 197;Author:Author 197;Year:2013;Journal:Journal 197,,
+Node,198,Label:Paper 198;Author:Author 198;Year:2015;Journal:Journal 198,,
+Node,199,Label:Paper 199;Author:Author 199;Year:2002;Journal:Journal 199,,
+Node,200,Label:Paper 200;Author:Author 200;Year:2010;Journal:Journal 200,,
+Edge,,,1,4
+Edge,,,1,7
+Edge,,,1,35
+Edge,,,1,22
+Edge,,,2,4
+Edge,,,2,23
+Edge,,,2,33
+Edge,,,2,39
+Edge,,,3,35
+Edge,,,3,9
+Edge,,,4,13
+Edge,,,4,39
+Edge,,,5,6
+Edge,,,5,9
+Edge,,,5,16
+Edge,,,6,10
+Edge,,,6,34
+Edge,,,6,33
+Edge,,,6,10
+Edge,,,7,19
+Edge,,,7,40
+Edge,,,7,18
+Edge,,,8,32
+Edge,,,8,20
+Edge,,,8,40
+Edge,,,9,36
+Edge,,,9,14
+Edge,,,10,35
+Edge,,,10,17
+Edge,,,10,40
+Edge,,,10,15
+Edge,,,11,17
+Edge,,,12,16
+Edge,,,12,18
+Edge,,,12,20
+Edge,,,13,36
+Edge,,,13,30
+Edge,,,13,19
+Edge,,,14,16
+Edge,,,15,24
+Edge,,,16,36
+Edge,,,16,23
+Edge,,,16,31
+Edge,,,16,22
+Edge,,,17,37
+Edge,,,17,36
+Edge,,,17,34
+Edge,,,17,40
+Edge,,,18,22
+Edge,,,18,24
+Edge,,,18,20
+Edge,,,19,26
+Edge,,,20,31
+Edge,,,20,25
+Edge,,,22,32
+Edge,,,23,24
+Edge,,,24,28
+Edge,,,24,33
+Edge,,,25,32
+Edge,,,26,38
+Edge,,,27,34
+Edge,,,28,29
+Edge,,,28,37
+Edge,,,29,31
+Edge,,,30,36
+Edge,,,31,35
+Edge,,,32,38
+Edge,,,33,34
+Edge,,,35,36
+Edge,,,38,40
+Edge,,,16,67
+Edge,,,17,69
+Edge,,,26,73
+Edge,,,19,68
+Edge,,,38,66
+Edge,,,41,68
+Edge,,,41,57
+Edge,,,41,51
+Edge,,,41,78
+Edge,,,41,68
+Edge,,,42,73
+Edge,,,42,52
+Edge,,,42,57
+Edge,,,42,68
+Edge,,,42,66
+Edge,,,43,63
+Edge,,,43,50
+Edge,,,43,64
+Edge,,,43,77
+Edge,,,44,75
+Edge,,,44,55
+Edge,,,44,77
+Edge,,,45,80
+Edge,,,45,73
+Edge,,,45,56
+Edge,,,45,51
+Edge,,,46,62
+Edge,,,46,74
+Edge,,,46,50
+Edge,,,46,58
+Edge,,,47,73
+Edge,,,47,58
+Edge,,,47,48
+Edge,,,48,54
+Edge,,,48,51
+Edge,,,48,54
+Edge,,,48,49
+Edge,,,49,54
+Edge,,,49,68
+Edge,,,49,80
+Edge,,,49,51
+Edge,,,51,68
+Edge,,,51,59
+Edge,,,52,80
+Edge,,,53,70
+Edge,,,54,57
+Edge,,,54,74
+Edge,,,55,57
+Edge,,,55,57
+Edge,,,56,67
+Edge,,,56,72
+Edge,,,57,60
+Edge,,,57,79
+Edge,,,58,76
+Edge,,,58,78
+Edge,,,58,76
+Edge,,,59,75
+Edge,,,59,65
+Edge,,,60,64
+Edge,,,60,75
+Edge,,,61,62
+Edge,,,62,75
+Edge,,,63,72
+Edge,,,63,77
+Edge,,,65,71
+Edge,,,65,71
+Edge,,,66,71
+Edge,,,67,76
+Edge,,,67,75
+Edge,,,68,70
+Edge,,,68,77
+Edge,,,71,72
+Edge,,,76,79
+Edge,,,61,107
+Edge,,,80,90
+Edge,,,52,108
+Edge,,,78,100
+Edge,,,43,98
+Edge,,,81,102
+Edge,,,81,93
+Edge,,,81,113
+Edge,,,82,117
+Edge,,,82,93
+Edge,,,82,115
+Edge,,,83,120
+Edge,,,83,110
+Edge,,,83,112
+Edge,,,83,113
+Edge,,,83,114
+Edge,,,84,108
+Edge,,,84,89
+Edge,,,84,114
+Edge,,,84,86
+Edge,,,85,97
+Edge,,,85,107
+Edge,,,85,89
+Edge,,,86,95
+Edge,,,86,101
+Edge,,,86,115
+Edge,,,87,110
+Edge,,,87,106
+Edge,,,87,111
+Edge,,,87,105
+Edge,,,87,120
+Edge,,,88,94
+Edge,,,88,98
+Edge,,,88,94
+Edge,,,88,118
+Edge,,,89,105
+Edge,,,89,94
+Edge,,,89,95
+Edge,,,90,92
+Edge,,,91,119
+Edge,,,92,108
+Edge,,,92,102
+Edge,,,93,119
+Edge,,,93,100
+Edge,,,93,100
+Edge,,,94,112
+Edge,,,94,96
+Edge,,,95,111
+Edge,,,95,111
+Edge,,,95,104
+Edge,,,95,118
+Edge,,,97,105
+Edge,,,97,114
+Edge,,,97,109
+Edge,,,97,116
+Edge,,,98,107
+Edge,,,98,119
+Edge,,,99,109
+Edge,,,99,120
+Edge,,,100,119
+Edge,,,101,108
+Edge,,,102,116
+Edge,,,103,119
+Edge,,,104,120
+Edge,,,104,113
+Edge,,,104,116
+Edge,,,104,117
+Edge,,,105,116
+Edge,,,106,115
+Edge,,,106,111
+Edge,,,107,109
+Edge,,,108,110
+Edge,,,109,119
+Edge,,,109,111
+Edge,,,109,116
+Edge,,,110,113
+Edge,,,110,116
+Edge,,,113,117
+Edge,,,116,120
+Edge,,,116,120
+Edge,,,89,153
+Edge,,,88,160
+Edge,,,95,127
+Edge,,,86,133
+Edge,,,112,148
+Edge,,,121,144
+Edge,,,121,124
+Edge,,,121,128
+Edge,,,121,143
+Edge,,,122,150
+Edge,,,122,158
+Edge,,,122,145
+Edge,,,122,152
+Edge,,,122,138
+Edge,,,123,142
+Edge,,,123,145
+Edge,,,123,152
+Edge,,,123,148
+Edge,,,124,132
+Edge,,,124,152
+Edge,,,124,160
+Edge,,,124,137
+Edge,,,124,128
+Edge,,,125,156
+Edge,,,125,143
+Edge,,,125,158
+Edge,,,125,145
+Edge,,,126,133
+Edge,,,126,154
+Edge,,,126,155
+Edge,,,127,159
+Edge,,,127,130
+Edge,,,127,147
+Edge,,,128,131
+Edge,,,129,159
+Edge,,,130,133
+Edge,,,130,140
+Edge,,,130,132
+Edge,,,131,153
+Edge,,,131,155
+Edge,,,131,145
+Edge,,,132,150
+Edge,,,133,146
+Edge,,,133,152
+Edge,,,133,137
+Edge,,,133,155
+Edge,,,133,158
+Edge,,,134,139
+Edge,,,134,147
+Edge,,,135,141
+Edge,,,135,156
+Edge,,,136,160
+Edge,,,136,143
+Edge,,,136,142
+Edge,,,137,145
+Edge,,,137,160
+Edge,,,138,159
+Edge,,,138,152
+Edge,,,139,142
+Edge,,,140,151
+Edge,,,140,153
+Edge,,,140,141
+Edge,,,140,156
+Edge,,,141,142
+Edge,,,141,158
+Edge,,,142,144
+Edge,,,143,150
+Edge,,,143,149
+Edge,,,144,152
+Edge,,,144,148
+Edge,,,144,156
+Edge,,,144,154
+Edge,,,145,149
+Edge,,,146,156
+Edge,,,147,155
+Edge,,,148,151
+Edge,,,149,159
+Edge,,,149,152
+Edge,,,150,155
+Edge,,,151,153
+Edge,,,153,158
+Edge,,,154,157
+Edge,,,155,160
+Edge,,,132,200
+Edge,,,133,168
+Edge,,,147,168
+Edge,,,140,182
+Edge,,,154,190
+Edge,,,161,167
+Edge,,,161,170
+Edge,,,161,173
+Edge,,,161,172
+Edge,,,162,169
+Edge,,,162,180
+Edge,,,162,181
+Edge,,,162,171
+Edge,,,163,184
+Edge,,,163,166
+Edge,,,163,180
+Edge,,,163,189
+Edge,,,164,198
+Edge,,,164,195
+Edge,,,164,175
+Edge,,,164,180
+Edge,,,165,174
+Edge,,,165,169
+Edge,,,165,195
+Edge,,,165,187
+Edge,,,165,173
+Edge,,,166,186
+Edge,,,167,199
+Edge,,,167,176
+Edge,,,167,169
+Edge,,,167,185
+Edge,,,167,197
+Edge,,,168,176
+Edge,,,168,177
+Edge,,,168,175
+Edge,,,169,195
+Edge,,,169,187
+Edge,,,169,189
+Edge,,,169,178
+Edge,,,169,198
+Edge,,,170,191
+Edge,,,170,172
+Edge,,,171,191
+Edge,,,171,173
+Edge,,,171,174
+Edge,,,172,191
+Edge,,,172,193
+Edge,,,172,194
+Edge,,,172,195
+Edge,,,173,198
+Edge,,,173,186
+Edge,,,173,188
+Edge,,,173,179
+Edge,,,175,195
+Edge,,,175,196
+Edge,,,175,179
+Edge,,,176,192
+Edge,,,176,193
+Edge,,,176,190
+Edge,,,177,189
+Edge,,,178,195
+Edge,,,178,180
+Edge,,,178,193
+Edge,,,179,200
+Edge,,,180,187
+Edge,,,180,184
+Edge,,,181,198
+Edge,,,181,182
+Edge,,,182,186
+Edge,,,182,197
+Edge,,,183,192
+Edge,,,183,184
+Edge,,,184,194
+Edge,,,185,188
+Edge,,,185,194
+Edge,,,185,191
+Edge,,,186,189
+Edge,,,187,196
+Edge,,,188,196
+Edge,,,190,192
+Edge,,,190,199
+Edge,,,190,199
+Edge,,,192,195
+Edge,,,193,198
+Edge,,,194,195
+Edge,,,194,196
+Edge,,,196,200
+Edge,,,1,2
+Edge,,,2,3
+Edge,,,3,4
+Edge,,,4,5
+Edge,,,5,6
+Edge,,,6,7
+Edge,,,7,8
+Edge,,,8,9
+Edge,,,9,10
+Edge,,,10,11
+Edge,,,11,12
+Edge,,,12,13
+Edge,,,13,14
+Edge,,,14,15
+Edge,,,15,16
+Edge,,,16,17
+Edge,,,17,18
+Edge,,,18,19
+Edge,,,19,20
+Edge,,,20,21
+Edge,,,21,22
+Edge,,,22,23
+Edge,,,23,24
+Edge,,,24,25
+Edge,,,25,26
+Edge,,,26,27
+Edge,,,27,28
+Edge,,,28,29
+Edge,,,29,30
+Edge,,,30,31
+Edge,,,31,32
+Edge,,,32,33
+Edge,,,33,34
+Edge,,,34,35
+Edge,,,35,36
+Edge,,,36,37
+Edge,,,37,38
+Edge,,,38,39
+Edge,,,39,40
+Edge,,,41,42
+Edge,,,42,43
+Edge,,,43,44
+Edge,,,44,45
+Edge,,,45,46
+Edge,,,46,47
+Edge,,,47,48
+Edge,,,48,49
+Edge,,,49,50
+Edge,,,50,51
+Edge,,,51,52
+Edge,,,52,53
+Edge,,,53,54
+Edge,,,54,55
+Edge,,,55,56
+Edge,,,56,57
+Edge,,,57,58
+Edge,,,58,59
+Edge,,,59,60
+Edge,,,60,61
+Edge,,,61,62
+Edge,,,62,63
+Edge,,,63,64
+Edge,,,64,65
+Edge,,,65,66
+Edge,,,66,67
+Edge,,,67,68
+Edge,,,68,69
+Edge,,,69,70
+Edge,,,70,71
+Edge,,,71,72
+Edge,,,72,73
+Edge,,,73,74
+Edge,,,74,75
+Edge,,,75,76
+Edge,,,76,77
+Edge,,,77,78
+Edge,,,78,79
+Edge,,,79,80
+Edge,,,81,82
+Edge,,,82,83
+Edge,,,83,84
+Edge,,,84,85
+Edge,,,85,86
+Edge,,,86,87
+Edge,,,87,88
+Edge,,,88,89
+Edge,,,89,90
+Edge,,,90,91
+Edge,,,91,92
+Edge,,,92,93
+Edge,,,93,94
+Edge,,,94,95
+Edge,,,95,96
+Edge,,,96,97
+Edge,,,97,98
+Edge,,,98,99
+Edge,,,99,100
+Edge,,,100,101
+Edge,,,101,102
+Edge,,,102,103
+Edge,,,103,104
+Edge,,,104,105
+Edge,,,105,106
+Edge,,,106,107
+Edge,,,107,108
+Edge,,,108,109
+Edge,,,109,110
+Edge,,,110,111
+Edge,,,111,112
+Edge,,,112,113
+Edge,,,113,114
+Edge,,,114,115
+Edge,,,115,116
+Edge,,,116,117
+Edge,,,117,118
+Edge,,,118,119
+Edge,,,119,120
+Edge,,,121,122
+Edge,,,122,123
+Edge,,,123,124
+Edge,,,124,125
+Edge,,,125,126
+Edge,,,126,127
+Edge,,,127,128
+Edge,,,128,129
+Edge,,,129,130
+Edge,,,130,131
+Edge,,,131,132
+Edge,,,132,133
+Edge,,,133,134
+Edge,,,134,135
+Edge,,,135,136
+Edge,,,136,137
+Edge,,,137,138
+Edge,,,138,139
+Edge,,,139,140
+Edge,,,140,141
+Edge,,,141,142
+Edge,,,142,143
+Edge,,,143,144
+Edge,,,144,145
+Edge,,,145,146
+Edge,,,146,147
+Edge,,,147,148
+Edge,,,148,149
+Edge,,,149,150
+Edge,,,150,151
+Edge,,,151,152
+Edge,,,152,153
+Edge,,,153,154
+Edge,,,154,155
+Edge,,,155,156
+Edge,,,156,157
+Edge,,,157,158
+Edge,,,158,159
+Edge,,,159,160
+Edge,,,161,162
+Edge,,,162,163
+Edge,,,163,164
+Edge,,,164,165
+Edge,,,165,166
+Edge,,,166,167
+Edge,,,167,168
+Edge,,,168,169
+Edge,,,169,170
+Edge,,,170,171
+Edge,,,171,172
+Edge,,,172,173
+Edge,,,173,174
+Edge,,,174,175
+Edge,,,175,176
+Edge,,,176,177
+Edge,,,177,178
+Edge,,,178,179
+Edge,,,179,180
+Edge,,,180,181
+Edge,,,181,182
+Edge,,,182,183
+Edge,,,183,184
+Edge,,,184,185
+Edge,,,185,186
+Edge,,,186,187
+Edge,,,187,188
+Edge,,,188,189
+Edge,,,189,190
+Edge,,,190,191
+Edge,,,191,192
+Edge,,,192,193
+Edge,,,193,194
+Edge,,,194,195
+Edge,,,195,196
+Edge,,,196,197
+Edge,,,197,198
+Edge,,,198,199
+Edge,,,199,200

@@ -1,0 +1,31 @@
+Type,ID,Attributes,SourceID,TargetID
+Node,1,"Label:Paper A;Author:John Doe;Year:2018;Journal:Journal of Science",,
+Node,2,"Label:Paper B;Author:Jane Smith;Year:2020;Journal:International Journal of Technology",,
+Node,3,"Label:Paper C;Author:Michael Johnson;Year:2019;Journal:Journal of Engineering",,
+Node,4,"Label:Paper D;Author:Emily Brown;Year:2021;Journal:Scientific Reports",,
+Node,5,"Label:Paper E;Author:David Wilson;Year:2017;Journal:Frontiers in Psychology",,
+Node,6,"Label:Paper F;Author:Samantha Lee;Year:2022;Journal:Journal of Applied Physics",,
+Node,7,"Label:Paper G;Author:Matthew Taylor;Year:2016;Journal:Journal of Neuroscience",,
+Node,8,"Label:Paper H;Author:Olivia Martinez;Year:2015;Journal:Journal of Medicine",,
+Node,9,"Label:Paper I;Author:Daniel Anderson;Year:2014;Journal:Journal of Business",,
+Node,10,"Label:Paper J;Author:Alexis Garcia;Year:2013;Journal:Journal of Education",,
+Edge,,,1,2
+Edge,,,2,3
+Edge,,,3,4
+Edge,,,4,5
+Edge,,,5,6
+Edge,,,6,7
+Edge,,,7,8
+Edge,,,8,9
+Edge,,,9,10
+Edge,,,10,1
+Edge,,,1,3
+Edge,,,2,4
+Edge,,,3,5
+Edge,,,4,6
+Edge,,,5,7
+Edge,,,6,8
+Edge,,,7,9
+Edge,,,8,10
+Edge,,,9,1
+Edge,,,10,2
