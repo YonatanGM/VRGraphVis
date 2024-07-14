@@ -1,2 +1,2 @@
 # VRGraphVis
-Force-directed layouts, edge bundling, and interaction techniques in VR.
+Force-directed layouts, edge bundling, and interaction techniques for networks in VR.
